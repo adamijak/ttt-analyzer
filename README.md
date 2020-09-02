@@ -1,2 +1,2 @@
 # ttt-analyzer
-TicTacToeAnalyzer
+TicTacToe Analyzer
