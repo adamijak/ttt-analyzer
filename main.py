@@ -1,3 +1,4 @@
+#! /bin/python
 from board import *
 from tree import *
 import utils
